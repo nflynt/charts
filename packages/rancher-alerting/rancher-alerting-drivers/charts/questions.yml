@@ -14,7 +14,7 @@ questions:
     type: boolean
     group: "General"
   - variable: sachet.enabled
-    default: false
+    default: true
     label: Enable SMS
     type: boolean
     group: "General"
